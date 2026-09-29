@@ -38,3 +38,4 @@ MCP_URL=https://TU-DOMINIO.vercel.app/mcp npm run test:mcp
 ```
 
 > Este servidor no implementa autenticación. No uses datos reales de estudiantes hasta añadir autenticación y controles de acceso apropiados.
+update
